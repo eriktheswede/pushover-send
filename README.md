@@ -19,13 +19,13 @@ WebStation and PHP packages are required to be set up and configured on the Syno
 
 3. Add an SMS provider in the Synology DSM interface:  
 Go to Control Panel -> Notification -> SMS. Click "Add SMS service provider".  
-Give it a name, I suggest pushover-send, and paste the following URL where it asks for sms url:
-http://localhost/pushover-send.php?userkey=username&appkey=pwd&to=1234&text=Hello+World
-Assign the variables as follows:
-userkey=username as Username
-appkey=pwd as Password
-to=1234 as Phone number
-text=Hello+World as Message content
+Give it a name, I suggest pushover-send, and paste the following URL where asked for SMS url:  
+http://localhost/pushover-send.php?userkey=username&appkey=pwd&to=1234&text=Hello+World  
+Assign the variables as follows:  
+userkey=username as Username   
+appkey=pwd as Password   
+to=1234 as Phone number  
+text=Hello+World as Message content  
 
 4. Enter your pushover keys as follows:  
 Username: Pushover user key  
