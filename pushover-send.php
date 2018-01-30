@@ -2,7 +2,7 @@
 /**
  * pushover-send
  *
- * PHP script mainly to add pushover as an SMS provider for Synology NAS units
+ * PHP script mainly designed to add pushover as an SMS provider for Synology NAS units
  * Can also be used add pushover notifications to anything else that can ping a URL
  *
  * @author Erik N
