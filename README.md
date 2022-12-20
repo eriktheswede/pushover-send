@@ -56,3 +56,4 @@ This project is licensed under the BSD license - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Thank you to Chris Schalenborgh (https://github.com/cschalenborgh/) for creating the php-pushover project used in this script and to Styxit (https://github.com/styxit) for the inspiration behind it.
+
